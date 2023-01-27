@@ -1,7 +1,7 @@
 Hey, I'm **Archie**! This is my GitHub profile. There's not a huge amount of activity here because I usually develop my own projects on a [Gitea](https://gitea.io) instance that I host myself, but I've uploaded a bunch of projects I've worked on in the past here.
 
 ### Things I use
-I've been using React, Next.js and Vite on the frontend, usually with Tailwind CSS. I've used Node.js a lot in the past and Deno a bit, but lately I prefer Go for backend stuff.
+I've been using React, Next.js and Vite on the frontend, usually with Tailwind CSS. I've used Node.js a lot in the past and Deno a bit, but lately I prefer Go for backend stuff. I have a lot of experience using Stripe for payment processing. I usually host projects on my own Linux server because I enjoy the experience of everything breaking periodically, but I use cloud services like Vercel sometimes.
 
 ### What I'm working on
 - When I was younger, I used to spend most of my time developing a collection of projects under a brand I called Alles, which included a [social site similar to Twitter](https://github.com/xkcdstickfigure/micro), [a search engine](https://github.com/xkcdstickfigure/bing), and [various](https://github.com/xkcdstickfigure/pulsar) [neat](https://github.com/xkcdstickfigure/tab-home) [little](https://github.com/xkcdstickfigure/verdaccio-api-auth) [utilities](https://github.com/xkcdstickfigure/mcauth) that integrated with your account, with hundreds of awesome people in the community. I was developing it very publicly and almost everything was open-source at the time.
