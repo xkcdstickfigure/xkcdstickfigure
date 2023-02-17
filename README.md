@@ -8,5 +8,10 @@ I've been using React, Next.js and Vite on the frontend, usually with Tailwind C
 - More recently, I've made [a site for creating wikis](https://github.com/xkcdstickfigure/wiki) for games or tv shows (similar to fandom.com) and a [publishing site](https://github.com/xkcdstickfigure/write.cx).
 - Right now, I'm working on a few very cool projects, but I'm not such a public person nowadays, so you'll have to talk to me if you want to know about them :)
 
+### Other stuff I do
+- I play piano, and compose music sometimes
+- I cycle for an hour every day
+- I like reading obscure pages on Wikipedia
+
 ### Contact me
 I don't really use platforms like Twitter anymore, but if you want to talk, send me an email: archie@abaer.dev
